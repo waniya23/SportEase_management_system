@@ -1,0 +1,20 @@
+import java.util.ArrayList;
+import java.util.ArrayList;
+import java.util.Scanner;
+
+    public class BadmintonEquipment extends SportEquipment {
+        public BadmintonEquipment(int id, ArrayList<Equipment> equipment) {
+            super(id, equipment);
+        }
+
+        void displayEquipment(){
+            for (int i=0;i<getEquipment().size();i++){
+                System.out.println("Slot ID: "+getEquipment().get(i).getEquipment_id()+" "+getEquipment().get(i).getEquipment_name()+" --- Time "+getEquipment().get(i).getTime()+" Availability : "+getEquipment().get(i).isAvalaibility());
+            }
+
+        }
+
+
+
+    }
+

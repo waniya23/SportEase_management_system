@@ -1,0 +1,35 @@
+1
+1 rackets 9-10 false K230600@nu.edu.pk
+2 rackets 10-11 true null
+3 rackets 11-12 true null
+4 rackets 12-1 false K233037@nu.edu.pk
+5 rackets 1-2 true null
+6 rackets 2-3 true null
+2
+1 rackets 9-10 true null
+2 rackets 10-11 false K230600@nu.edu.pk
+3 rackets 11-12 false K230600@nu.edu.pk
+4 rackets 12-1 true null
+5 rackets 1-2 true null
+6 rackets 2-3 true null
+3
+1 rackets 9-10 true null
+2 rackets 10-11 true null
+3 rackets 11-12 true null
+4 rackets 12-1 true null
+5 rackets 1-2 true null
+6 rackets 2-3 false K230600@nu.edu.pk
+4
+1 rackets 9-10 true null
+2 rackets 10-11 true null
+3 rackets 11-12 true null
+4 rackets 12-1 true null
+5 rackets 1-2 true null
+6 rackets 2-3 true null
+5
+1 rackets 9-10 false K233037@nu.edu.pk
+2 rackets 10-11 true null
+3 rackets 11-12 false K233037@nu.edu.pk
+4 rackets 12-1 true null
+5 rackets 1-2 true null
+6 rackets 2-3 true null

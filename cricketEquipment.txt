@@ -1,0 +1,35 @@
+1
+1 Bat-Ball 9-10 true null
+2 Bat-Ball 10-11 true null
+3 Bat-Ball 11-12 true null
+4 Bat-Ball 12-1 false K233020@nu.edu.pk
+5 Bat-Ball 1-2 true null
+6 Bat-Ball 2-3 true null
+2
+1 Bat-Ball 9-10 true null
+2 Bat-Ball 10-11 true null
+3 Bat-Ball 11-12 false K233020@nu.edu.pk
+4 Bat-Ball 12-1 true null
+5 Bat-Ball 1-2 true null
+6 Bat-Ball 2-3 true null
+3
+1 Bat-Ball 9-10 true null
+2 Bat-Ball 10-11 true null
+3 Bat-Ball 11-12 true null
+4 Bat-Ball 12-1 true null
+5 Bat-Ball 1-2 false K233020@nu.edu.pk
+6 Bat-Ball 2-3 true null
+4
+1 Bat-Ball 9-10 true null
+2 Bat-Ball 10-11 true null
+3 Bat-Ball 11-12 true null
+4 Bat-Ball 12-1 false K230600@nu.edu.pk
+5 Bat-Ball 1-2 false K230600@nu.edu.pk
+6 Bat-Ball 2-3 true null
+5
+1 Bat-Ball 9-10 true null
+2 Bat-Ball 10-11 true null
+3 Bat-Ball 11-12 true null
+4 Bat-Ball 12-1 true null
+5 Bat-Ball 1-2 true null
+6 Bat-Ball 2-3 false K233037@nu.edu.pk
